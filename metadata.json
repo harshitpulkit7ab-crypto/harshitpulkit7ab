@@ -1,0 +1,7 @@
+{
+  "name": "PixelOS 16",
+  "description": "Android 16 Pixel Experience custom ROM simulator, smooth performance engine, and flashing toolkit for Redmi Y3 (onclite).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

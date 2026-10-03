@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Safe zone is centered within 108x108 (21 to 87) -->
+    <!-- Glowing Outer Badge -->
+    <path
+        android:pathData="M38,26 H70 A14,14 0 0,1 84,40 V68 A14,14 0 0,1 70,82 H38 A14,14 0 0,1 24,68 V40 A14,14 0 0,1 38,26 Z"
+        android:fillColor="#1E293B"
+        android:strokeWidth="2.5"
+        android:strokeColor="#38BDF8" />
+
+    <!-- Google 4-Color Accent Bars across top-right of badge -->
+    <path
+        android:pathData="M36,32 H44"
+        android:strokeWidth="3.5"
+        android:strokeColor="#4285F4"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M48,32 H56"
+        android:strokeWidth="3.5"
+        android:strokeColor="#EA4335"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M60,32 H68"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FBBC04"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M72,32 H76"
+        android:strokeWidth="3.5"
+        android:strokeColor="#34A853"
+        android:strokeLineCap="round" />
+
+    <!-- Large Bold "16" in Pixel font style -->
+    <!-- Digit 1 -->
+    <path
+        android:pathData="M38,44 L44,40 V70 H38"
+        android:strokeWidth="4.5"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Digit 6 -->
+    <path
+        android:pathData="M68,44 C66,40 58,40 55,47 C52,53 52,68 59,70 C66,71 70,66 70,60 C70,54 65,51 58,52 C54,53 53,58 53,62"
+        android:strokeWidth="4"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:fillColor="#00000000" />
+
+    <!-- Mini Android antenna dots -->
+    <path
+        android:pathData="M46,23 L44,18"
+        android:strokeWidth="2.2"
+        android:strokeColor="#34A853"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M62,23 L64,18"
+        android:strokeWidth="2.2"
+        android:strokeColor="#34A853"
+        android:strokeLineCap="round" />
+</vector>
